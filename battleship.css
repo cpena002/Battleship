@@ -1,0 +1,35 @@
+table {
+  height: 450px;
+  width: 450px;
+}
+td {
+  border: inset;
+  /*border-color:  #3eb4c6;*/
+  border-color:  red;
+}
+
+.missed {
+  background-color: red;
+}
+
+.ship {
+  background-color: #777;
+}
+
+.hit {
+  background-color: black;
+}
+
+.col-md-8 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+body {
+  background-image: url(https://c1.staticflickr.com/1/104/315224821_3bf37dffae_b.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
