@@ -8,6 +8,10 @@ td {
   border-color:  red;
 }
 
+h1 {
+  color: pink;
+}
+
 .missed {
   background-color: red;
 }
